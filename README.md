@@ -19,3 +19,8 @@ A simple Python script to convert Solidity `.sol` files into `.txt` format while
    ```bash
    git clone https://github.com/yourusername/sol-to-txt-converter.git
    cd sol-to-txt-converter
+   ```
+2. Run the python code:
+   ```bash
+   python3 soltotxt.py
+   ```
